@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #96c095;
+}
+
+#logo {
+    width: 50px;
+    margin-bottom: 20px;
+}
+
+.login-body {
+    width: 50%;
+    margin: auto;
+
+}
+
+
+.right-half {
+    text-align: center;
+    padding: 50px 0;
+    background-image: linear-gradient(0deg, rgba(72, 108, 133, 0.6), rgba(17, 15, 16, 0.6)), url('../Resources/images/7.jpg');
+    background-size: 500px;
+    width: 100%;
+    color: white;
+    margin-top: 100px;
+}
+
+.inp {
+    width: 40%;
+    padding: 8px;
+    margin-bottom: 18px;
+}
+
+
+#sign-in-button {
+
+    text-decoration: none;
+    background-color: #067DC2;
+    padding: 10px 14px;
+    border-radius: 5px;
+    color: white;
+    border: none;
+
+
+}
+
+.sign-up-link {
+    margin-top: 40px;
+
+}
+
+.Sign-Up {
+    color: rgb(163, 199, 233);
+}

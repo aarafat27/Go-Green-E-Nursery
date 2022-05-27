@@ -1,0 +1,68 @@
+.Go-Green {
+    color: #52d359;
+    text-decoration: none;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.link-nvbar {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: 15px;
+}
+
+
+
+#seemore-button {
+    background-color: #52AC57;
+    margin-top: 30px;
+    margin-left: 450px;
+    border-radius: 8px;
+}
+
+#seemore-button:hover {
+    background-color: #1e5e21;
+
+}
+
+.buy-button {
+    background-color: #78E07E;
+    color: white;
+    border-radius: 8px;
+    font-size: 18px;
+    padding: 5px 22px;
+}
+
+.buy-button:hover {
+    background-color: #5AE561;
+
+
+}
+
+.data-grid {
+    background-color: #85eda4;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 8px;
+}
+
+.data-grid-img img {
+    width: 90%;
+    margin-bottom: 10px;
+}
+
+.data-grid-img img:hover {
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+#price {
+    font-size: 19px;
+    color: rgb(255, 255, 255);
+}
+
+.popular-collection {
+    margin-top: 50px;
+}

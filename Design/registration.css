@@ -1,0 +1,54 @@
+.body-background {
+  background-color: rgb(203, 238, 203);
+
+}
+
+#tag {
+  color: rgb(6, 84, 6);
+  margin-top: -10px;
+}
+
+.bbbb {
+  width: 40%;
+  padding: 50px;
+  margin: auto;
+  border-radius: 10px;
+  align-items: center;
+  background-color: rgb(85, 149, 85);
+  text-align: center;
+}
+
+label {
+  font-weight: bold;
+  color: black;
+}
+
+input {
+  padding: 8px 10px;
+  width: 60%;
+  border-radius: 9px;
+
+  border: 2px solid rgb(255, 255, 255);
+}
+
+input:hover {
+  border: 2px solid greenyellow;
+}
+
+.register-button {
+  padding: 10px 23px;
+  background-color: #0AB738;
+  border: none;
+  border-radius: 8px;
+  font-weight: bold;
+
+
+}
+
+.register-button:hover {
+
+  background-color: #055e1d;
+  color: white;
+
+
+}
